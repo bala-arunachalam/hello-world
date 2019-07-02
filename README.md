@@ -1,3 +1,3 @@
 # hello-world
 Hi Humans!
-I learn to understand how you do web development!
+I learnt how you did the web development!
